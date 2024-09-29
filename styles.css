@@ -1,47 +1,4 @@
-/* body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f4f4f4;
-  }
-  
-  .container {
-    margin-top: 50px;
-  }
-  
-  input {
-    padding: 10px;
-    width: 200px;
-  }
-  
-  button {
-    padding: 10px 20px;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-  }
-  
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  li {
-    margin: 10px 0;
-    background-color: white;
-    padding: 10px;
-    border-radius: 5px;
-    display: flex;
-    justify-content: space-between;
-  }
-  
-  button.delete {
-    background-color: #FF5733;
-  }
-   */
 
-   /* General Styling */
-/* General Styling */
-/* General Styling */
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(to right, #8360c3, #2ebf91); /* Gradient background */
